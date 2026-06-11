@@ -1,4 +1,4 @@
-# Interactive Sankey Diagram for Forensic Case Tracking for Train Crash Sikew, Nakhonratchasima
+# Interactive Sankey Diagram for Forensic Case Tracking for Train Crash Sikew, Nakhon Ratchasima, THAILAND
 
 ## Overview
 
